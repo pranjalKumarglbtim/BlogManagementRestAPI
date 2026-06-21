@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blog Management REST API
 
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
@@ -336,4 +337,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Author:** Pranjal Kumar
 
-[![GitHub](https://img.shields.io/badge/GitHub-pranjalKumarglbtim-black.svg)](https://github.com/pranjalKumarglbtim)
+[![GitHub](https://img.shields.io/badge/GitHub-pranjalKumarglbtim-black.svg)](https://github.com/pranjalKumarglbtim) 507a93b64f1349ab434a9edbaa67600234797ef0

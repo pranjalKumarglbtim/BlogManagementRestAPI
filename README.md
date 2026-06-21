@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blog Management REST API
 
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
